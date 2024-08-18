@@ -6,10 +6,10 @@
   By Asking various Queation and using charts and plots like pie plot, countplot,...etc to answer them, we could expore 
   the dataset well and get the relation among the features.
 ## Data Preprocessing:
-    Drop Duplicated Values.
-    1. Drop null Values.
-    2.Drop Duplicated Values.
-    3.Handling Categorical Features: By using  label encoding and other techniques, we could convert the categorical 
+    1.Drop Duplicated Values.
+    2. Drop null Values.
+    3.Drop Duplicated Values.
+    4.Handling Categorical Features: By using  label encoding and other techniques, we could convert the categorical 
         data to numerical one. this step make it easier to building the model.
  ## Machine learning model
     Apply a linear regression model to predict the age of the fossils by its features 
